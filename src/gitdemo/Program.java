@@ -7,6 +7,7 @@ public class Program {
 		System.out.println("cos nowego");
 		
 		String tajemnica = "sekret";
+		System.out.println(tajemnica);
 	}
 
 }
